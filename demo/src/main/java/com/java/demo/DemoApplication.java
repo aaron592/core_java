@@ -3,8 +3,7 @@ package com.java.demo;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-//Hello
-//done
+//Added comments
 
 @SpringBootApplication
 public class DemoApplication {
