@@ -2,7 +2,7 @@ package com.java.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-//New comment
+//new comment 6/7/2022
 
 @SpringBootApplication
 public class DemoApplication {
